@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio user specific or generated files
+*.suo
+*.sdf
+*.opensdf
+bin/
+obj/
