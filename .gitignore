@@ -29,7 +29,12 @@
 
 # Visual Studio user specific or generated files
 *.suo
+*.user
 *.sdf
 *.opensdf
 bin/
 obj/
+ipch/
+
+# Nuget packages
+packages/
